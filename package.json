@@ -1,0 +1,16 @@
+{
+  "name": "eventos-conecta",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MVP acessível para divulgação e gestão de eventos com Node.js, Express, Leaflet e Vercel.",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "cors": "^2.8.5"
+  },
+  "engines": { "node": ">=18" }
+}
