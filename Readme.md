@@ -1,16 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 🎉 EventSync
 
 ## 📌 Sobre o Projeto
